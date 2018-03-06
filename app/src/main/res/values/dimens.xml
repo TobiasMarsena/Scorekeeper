@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="team_score_padding">8dp</dimen>
+    <dimen name="name_text_size">25dp</dimen>
+    <dimen name="score_text_size">25dp</dimen>
+    <dimen name="image_button_width">70dp</dimen>
+    <dimen name="image_button_height">70dp</dimen>
+</resources>
